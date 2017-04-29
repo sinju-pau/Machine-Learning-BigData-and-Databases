@@ -18,7 +18,7 @@ There are several useful variables that they include in the dataset for each per
 
 The data files together with a well-detailed description of the variables involved can be found at: https://www.kaggle.com/c/titanic/data
 
-The data analysis is performed using R, in RStudio environment. R is a free software environment for statistical computing and graphics. 
+The data analysis is performed using R, in RStudio environment. R is an open-source software environment for statistical computing and graphics. 
 It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You will need to have R set up on your computer. 
 <a href="https://www.r-project.org/">R Installation</a> is free and and an easy one to do.
 
