@@ -23,7 +23,7 @@ It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You 
 <a href="https://www.r-project.org/">R Installation</a> is free and and an easy one to do.
 
 Step :1
-First set the R working directory to the folder that contains data, using the setwd( ) command
+First set the R working directory to the folder that contains data, using the ``` setwd() ```command
 
 ```R
 
