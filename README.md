@@ -25,6 +25,8 @@ It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You 
 Step :1
 First set the R working directory to the folder that contains data, using the setwd( ) command
 
+```R
+
 setwd('Users/Desktop/Titanic')
 
-
+```
