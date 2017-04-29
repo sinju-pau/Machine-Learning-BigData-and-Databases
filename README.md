@@ -51,7 +51,7 @@ Now, take a look at the first few rows of the training set:
 head(data)
 
 ```
-![alt text](screenshots/r1.png "Description goes here")
+![alt text](Users/nidhinabraham/Desktop/r1.png "Description goes here")
 
 
 
