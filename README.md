@@ -30,3 +30,11 @@ First set the R working directory to the folder that contains data, using the ``
 setwd('Users/Desktop/Titanic')
 
 ```
+Step :2
+To load the data available with the file ```train.csv```, use the ```read.table()``` function
+
+```R
+
+data<-read.table("train.csv",sep=",",header=TRUE)
+
+```
