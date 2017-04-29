@@ -20,10 +20,11 @@ The data files together with a well-detailed description of the varaibles involv
 
 The data analysis is performed using R, in RStudio environment. R is a free software environment for statistical computing and graphics. 
 It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You will need to have R set up on your computer. 
-Here's a link to a download page: https://www.r-project.org/
+Here's a link to a download page: <a href="https://www.r-project.org/">R Installation</a>
 
 Step :1
 First set the R working directory to the folder that contains data, using the setwd( ) command
 
 setwd('Users/Desktop/Titanic')
+
 
