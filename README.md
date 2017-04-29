@@ -16,7 +16,7 @@ There are several useful variables that they include in the dataset for each per
 6. fare: how much the passenger paid
 7. embarked: where they got on the boat (C = Cherbourg; Q = Queenstown; S = Southampton)
 
-The data files together with a well-detailed description of the variables involved can be found at: https://www.kaggle.com/c/titanic/data
+The data files together with a well-detailed description of the variables involved can be found at <a href="https://www.kaggle.com/c/titanic">Titanic</a>
 
 The data analysis is performed using R, in RStudio environment. R is an open-source software environment for statistical computing and graphics. 
 It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You will need to have R set up on your computer. 
