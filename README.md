@@ -22,8 +22,10 @@ The data analysis is performed using R, in RStudio environment. R is an open-sou
 It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You will need to have R set up on your computer. 
 <a href="https://www.r-project.org/">R Installation</a> is free and and an easy one to do.
 
+The dataset is split into a training set and a test set, because the test set is competition-specific.
+
 Step :1
-First set the R working directory to the folder that contains data, using the ``` setwd() ```command
+First set the R working directory to the folder that contains data, using the ``` setwd() ```command:
 
 ```R
 
@@ -31,10 +33,25 @@ setwd('Users/Desktop/Titanic')
 
 ```
 Step :2
-To load the data available with the file ```train.csv```, use the ```read.table()``` function
+To load the data available with the file ``` train.csv```, use the ``` read.table()``` function:
 
 ```R
 
 data<-read.table("train.csv",sep=",",header=TRUE)
 
 ```
+
+This command reads in the file ``` “train.csv”```, using the delimiter ``` “,”```, including the header row as the column names, and assigns it to the R object ``` data ```.
+
+Step :3
+Now, take a look at the first few rows of the training set:
+
+```R
+
+head(data)
+
+```
+
+
+
+
