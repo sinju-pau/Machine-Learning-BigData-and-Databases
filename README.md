@@ -6,6 +6,7 @@ This sensational tragedy shocked the international community and led to better s
 
 Kaggle has put together an interesting competition upon a dataset containing data on who survived and who died on the Titanic. 
 The challenge is to build a model that can look at characteristics of an individual who was on the Titanic and predict the likelihood that they would have survived. 
+Here's the link to the competition: https://www.kaggle.com/c/titanic
 There are several useful variables that they include in the dataset for each person:
 1. pclass: passenger class (1st, 2nd, or 3rd)
 2. sex
@@ -20,3 +21,9 @@ The data files together with a well-detailed description of the varaibles involv
 The data analysis is performed using R, in RStudio environment. R is a free software environment for statistical computing and graphics. 
 It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You will need to have R set up on your computer. 
 Here's a link to a download page: https://www.r-project.org/
+
+Step :1
+First set the R working directory to the folder that contains data, using the setwd( ) command
+
+setwd('Users/Desktop/Titanic')
+
