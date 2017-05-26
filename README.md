@@ -19,8 +19,7 @@ There are several useful variables that they include in the dataset for each per
 The data files together with a well-detailed description of the variables involved can be found at <a href="https://www.kaggle.com/c/titanic">Titanic</a>
 
 The data analysis is performed using R, in RStudio environment. R is an open-source software environment for statistical computing and graphics. 
-It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.You will need to have R set up on your computer. 
-<a href="https://www.r-project.org/">R Installation</a> is free and and an easy one to do.
+It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.<a href="https://www.r-project.org/">R Installation</a> is free and and an easy one to do.
 
 The dataset is split into a training set and a test set, because the test set is competition-specific.
 
