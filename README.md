@@ -8,6 +8,11 @@ This repository covers my analysis of Data Science related projects as:
 
 3. [Working with Neo4j, graph DB, using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Miscellaneous-Tasks/blob/master/Neo4jUsingPython.ipynb)
 
-4. [Working with Spark using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Miscellaneous-Tasks/blob/master/ApacheSparkwithPyspark.ipynb)
+4. [Working with Spark using Python - RDD Based API](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Miscellaneous-Tasks/blob/master/ApacheSparkwithPyspark.ipynb)
+
+5. [Working with Spark using Python - DataFrame Based API]()
+
+
+
 
 
