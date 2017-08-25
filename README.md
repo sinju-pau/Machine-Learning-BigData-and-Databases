@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning using Spark and NoSQL
 
 This repository covers my analysis of Data Science related projects as:
 
