@@ -1,6 +1,6 @@
 # Machine Learning using Spark and NoSQL
 
-This repository covers my analysis of Data Science related projects as:
+This repository covers analysis of data related projects as:
 
 1. [MongoDB, Document DB, basics using 'pymongo' in Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-BigData-and-Databases/blob/master/MongoDBinPython.ipynb)
 
