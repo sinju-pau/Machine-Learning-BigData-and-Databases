@@ -16,6 +16,9 @@ This repository covers analysis of data related projects as:
 
 7. [Working with Dask in Python for Scalable Machine Learning](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-BigData-and-Databases/blob/master/machine-learning.ipynb)
 
+8. [SMS Spam Detection in Spark with NLP tools](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-BigData-and-Databases/blob/master/NLP_Code_Along.ipynb)
+
+
 
 
 
