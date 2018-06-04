@@ -14,7 +14,7 @@ This repository covers analysis of data related projects as:
 
 6. [Working with Spark using sparklyr in R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-BigData-and-Databases/blob/master/ApacheSaprkInRWithsparklyr.ipynb)
 
-7. [Working with Dask in Python for Scalabale Machine Learning](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-BigData-and-Databases/blob/master/machine-learning.ipynb)
+7. [Working with Dask in Python for Scalable Machine Learning](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-BigData-and-Databases/blob/master/machine-learning.ipynb)
 
 
 
